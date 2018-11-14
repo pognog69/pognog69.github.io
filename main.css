@@ -1,16 +1,7 @@
-/* The Magic Float Center Code */
-
-// by Alexandre Dees
-// www.alexandre-dees.com
-
-.float_center {
-  float: right;
-
+.B {
   position: relative;
-  left: -50%; /* or right 50% */
-  text-align: left;
-}
-.float_center > .child {
-  position: relative;
-  left: 50%;
+  color: rgb(0,0,0);
+  text-decoration: none;
+  font-size:100vh;
+  left:25%;
 }
