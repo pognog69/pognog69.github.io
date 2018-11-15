@@ -1,8 +1,8 @@
 .B {
-  position: relative;
+  position: absolute;
   text-decoration: none;
   font-size: 100vh;
-  color: #e00;
-  --l: calc(50vw - 50vh);
+  color: unset;
+  --l: calc(50vw - 65vh);
   left: var(--l);
 }
